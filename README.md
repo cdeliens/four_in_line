@@ -1,11 +1,10 @@
 # Estructuras de Datos II
-## Universidad Cenfotec
+# Universidad Cenfotec
+# Proyecto 1
+# 4 en Raya
+# Arboles Mini-Max
 
-## Proyecto 1
-## 4 en Raya
-### Arboles Mini-Max
-
-### Ruby version: ruby 2.1.2p95 or greater
+Ruby version: ruby 2.1.2p95 or greater
 
 Human vs Computer
 ```ruby
