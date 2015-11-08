@@ -1,5 +1,5 @@
-#Estructuras de Datos II
-Universidad Cenfotec, Proyecto 1,
+# Estructuras de Datos II
+Universidad Cenfotec, Proyecto 1
 ## 4 en Raya (Arboles Mini-Max)
 
 Ruby version: ruby 2.1.2p95 or greater
