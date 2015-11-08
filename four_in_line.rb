@@ -5,6 +5,7 @@ module Ed
 
     def self.prepare_game
       player = ARGV.first || "Computer"
+      player = ["Human", "Computer"].sample if player == "random"
       player_a = Ed::Player.new("Computer", 1)
       player_b = Ed::Player.new(player, 2)
       # This difficulty is based on the values set to score the MAX and MIN moves
